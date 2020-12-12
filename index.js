@@ -1,3 +1,3 @@
 function greeting() {
-  return "Goodbye World!";
+  return "Goodbye conflict!";
 }
